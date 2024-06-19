@@ -1,10 +1,6 @@
 ## Hi there 👋
 
 ### Projects as Game Client Developer
-#### Serious Game Project I 개인프로젝트 "Flame and Smoke"
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)  
-**프로젝트 진행중 (24년 1학기)** : Unreal Engine 5 기반 화재 대응 및 탈출 시리어스 게임
 #### [모바일프로그래밍 팀프로젝트 "Dungeon Survival"](https://github.com/SyingSHY/2301-MP-RS)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)  
