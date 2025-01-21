@@ -1,4 +1,55 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seongho%20Yang%20(SyingSHY)&fontSize=50" width="50%"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=syingshy&show_icons=true&theme=transparent&hide="/>
+
+  <a href="https://github.com/syingshy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyingshy&count_bg=%23000000&title_bg=%23000000&icon=refinedgithub.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)"/></a>
+  <a href="https://solved.ac/posti1x38"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=posti1x38"/></a>
+  <a href="https://github.com/syingshy"><img alt="Resume/CV" src="https://img.shields.io/badge/Resume%20%2F%20CV-3CB346"></a><br>
+  <a href="https://syingshy.github.io"><img src="https://img.shields.io/badge/Github Pages-000000?style=flat&logo=refinedgithub&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%EC%96%91-8b5013249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:posit1x38@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a><br>
+</div>
+
+<br>
+
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=syingshy&layout=compact&hide=HLSL,ShaderLab">
+
+  <div align="right">
+  
+  ### 📈 Timeline
+
+  <sub>**🔭 Challenging for the Incoming Chances 🔭** (Now) </sub> <br />
+  <sub>**🎓 Ajou University Undergraduate 🎓** (2017.03 ~ 2025.02)</sub> <br />
+  <br />
+  <br />
+  
+  </div>
+</div>  
+
+<div align="center">
+  
+  ### :open_file_folder: Projects & Main Tech Stacks 🛠️
+
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=9f8057ef2f7c6ba3b4d9c332a9388a0c" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=ae6594784e7f6f6d9d39ee17fafef94b" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/gist?id=36a13d30ec433c68e6ff7c2cb41d2f30" width="33%"/>
+    
+  ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"/>
+  ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
+  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  
+
+</div> 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=80&section=footer&text=&fontSize=0" width="100%"/>
+
+<!--
 
 ### Projects as Game Client Developer
 #### [모바일프로그래밍 팀프로젝트 "Dungeon Survival"](https://github.com/SyingSHY/2301-MP-RS)
@@ -70,8 +121,6 @@
 : 지역별 음성 데이터 학습에 따른 방언 구별 프로그램 - [AI 허브](https://www.aihub.or.kr/) 데이터 정제 / RNN, LSTM, GRU 등 순환 신경망 담당
 
 
-
-<!--
 **SyingSHY/SyingSHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
