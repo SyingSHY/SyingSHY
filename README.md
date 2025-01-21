@@ -1,13 +1,16 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seongho%20Yang%20(SyingSHY)&fontSize=50" width="50%"/>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=syingshy&show_icons=true&theme=transparent&hide="/>
+   <img align="right" src="https://github-readme-stats.vercel.app/api?username=syingshy&show_icons=true&theme=transparent&hide="/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Seongho%20Yang%20(SyingSHY)&fontSize=50" width="40%"/>
 
+  <br/>
+  <br/>
   <a href="https://github.com/syingshy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyingshy&count_bg=%23000000&title_bg=%23000000&icon=refinedgithub.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)"/></a>
   <a href="https://solved.ac/posti1x38"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=posti1x38"/></a>
   <a href="https://github.com/syingshy"><img alt="Resume/CV" src="https://img.shields.io/badge/Resume%20%2F%20CV-3CB346"></a><br>
   <a href="https://syingshy.github.io"><img src="https://img.shields.io/badge/Github Pages-000000?style=flat&logo=refinedgithub&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/%EC%84%B1%ED%98%B8-%EC%96%91-8b5013249/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:posit1x38@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a><br>
+
 </div>
 
 <br>
