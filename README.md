@@ -36,9 +36,9 @@
 
   ### :open_file_folder: Projects & Main Tech Stacks 🛠️
 
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=9f8057ef2f7c6ba3b4d9c332a9388a0c" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=ae6594784e7f6f6d9d39ee17fafef94b" width="33%"/>
-  <img src="https://github-readme-stats.vercel.app/api/gist?id=36a13d30ec433c68e6ff7c2cb41d2f30" width="33%"/>
+  <a href="https://github.com/SyingSHY/SyingSHY/blob/main/Projects%20-%20MLE.md"><img src="https://github-readme-stats.vercel.app/api/gist?id=9f8057ef2f7c6ba3b4d9c332a9388a0c" width="33%"/></a>
+  <a href="https://github.com/SyingSHY/SyingSHY/blob/main/Projects%20-%20BE.md"><img src="https://github-readme-stats.vercel.app/api/gist?id=ae6594784e7f6f6d9d39ee17fafef94b" width="33%"/></a>
+  <a href="https://github.com/SyingSHY/SyingSHY/blob/main/Projects%20-%20GCE.md"><img src="https://github-readme-stats.vercel.app/api/gist?id=36a13d30ec433c68e6ff7c2cb41d2f30" width="33%"/></a>
     
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
