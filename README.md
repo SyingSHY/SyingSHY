@@ -4,7 +4,6 @@
 
   <br/>
   <br/>
-  <a href="https://github.com/syingshy"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyingshy&count_bg=%23A47864&title_bg=%232E2E2E&icon=refinedgithub.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=true)"/></a>
   <a href="https://solved.ac/posti1x38"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=posti1x38"/></a>
   <a href="https://my.surfit.io/w/235596230"><img alt="Resume/CV" src="https://img.shields.io/badge/Resume%20%2F%20CV-3CB346"></a><br>
   <a href="https://syingshy.github.io"><img src="https://img.shields.io/badge/Github Pages-000000?style=flat&logo=refinedgithub&logoColor=white"/></a>
@@ -23,8 +22,10 @@
   
   ### 📈 Timeline
 
-  <sup>**🔭 Challenging for the Incoming Chances 🔭** (Now) </sup> <br />
-  <sup>**🎓 Ajou University Undergraduate 🎓** (2017.03 ~ 2025.02)</sup> <br />
+  <sup>**🔭 Challenging for Incoming Chances 🔭** (Now) </sup> <br />
+  <sup>**⛺ Boostcamp AI Tech 8th ⛺** (2025.09 ~ 2026.02)</sup> <br />
+  <sup>**⛺ Boostcamp Web·Mobile 10th ⛺** (2025.06 ~ 2025.08)</sup> <br />
+  <sup>**🎓 Ajou University Undergraduate 🎓** (2017.03 ~ 2026.02)</sup> <br />
   <br />
   <br />
   
