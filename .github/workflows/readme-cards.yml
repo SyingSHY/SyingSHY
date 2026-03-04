@@ -27,7 +27,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&hide=HLSL,ShaderLab
+          options: username=${{ github.repository_owner }}&layout=compact&hide=jupyter%20notebook,HLSL,ShaderLab
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
