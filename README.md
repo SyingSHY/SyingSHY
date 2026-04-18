@@ -22,7 +22,7 @@
   
   ### 📈 Timeline
 
-  <sup>**🔭 Challenging for Incoming Chances 🔭** (Now) </sup> <br />
+  <sup>**✨ AI Agent Engineer @ GenON ✨** (2026.03 ~ Now) </sup> <br />
   <sup>**⛺ Boostcamp AI Tech 8th ⛺** (2025.09 ~ 2026.02)</sup> <br />
   <sup>**⛺ Boostcamp Web·Mobile 10th ⛺** (2025.06 ~ 2025.08)</sup> <br />
   <sup>**🎓 Ajou University Undergraduate 🎓** (2017.03 ~ 2026.02)</sup> <br />
